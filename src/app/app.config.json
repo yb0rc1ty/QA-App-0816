@@ -1,0 +1,14 @@
+{
+	"appname": "QA App 0816",
+	"scope": "FullAccess",
+	"clientid": "5764714C-60BF-4B22-98FD-A5287EB56085",
+	"buyerid": "Connor_Lata_buyer",
+	"environment": "qa",
+	"anonymous": true,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
